@@ -10,7 +10,7 @@ Run `pip install hg+https://bitbucket.org/nextscreenlabs/django-debugging`
 
 If you are using the package from source you will need to install [Werkzeug](http://werkzeug.pocoo.org/) manually.
 
-Add `form_extensions` to your `INSTALLED_APPS` setting:
+Add `django-debugging` to your `INSTALLED_APPS` setting:
 
 ```python
 INSTALLED_APPS = (
