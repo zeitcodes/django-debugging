@@ -6,7 +6,7 @@ Django debugging makes it easier to debug your app during development. Currently
 Installation
 ------------
 
-Run `pip install hg+https://bitbucket.org/nextscreenlabs/django-debugging`
+Run `pip install django-debugging`
 
 If you are using the package from source you will need to install [Werkzeug](http://werkzeug.pocoo.org/) manually.
 
